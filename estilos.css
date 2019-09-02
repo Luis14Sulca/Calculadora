@@ -1,0 +1,22 @@
+form{
+    background-color: rgb(223, 77, 77);
+    width: 250px;
+}
+#resultado{
+    padding: 5px 2px 10px 2px; font-size: 15px; width: 95%; text-align: right;
+    background-color: #e3e4e5;
+}
+input{
+    width: 50px; height: 50px; padding: 4px; margin: 2px;margin-right: 2px; margin-bottom: 4px; margin-inline-end: 2px; 
+}
+#gaa{
+    background-color: #f2f7fa;
+}
+#gaa:hover{
+    background-color: #f189c6;
+    transition: all .3s ease;
+}
+form input:hover{
+    background-color: #8693da;
+    transition: all .3s ease;
+}
